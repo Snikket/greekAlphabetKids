@@ -1,0 +1,60 @@
+/* src/App.css */
+.app {
+  text-align: center;
+}
+
+.animal-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 20px;
+  padding: 20px;
+}
+
+.animal-card {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 10px;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.letter-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 10px;
+  text-align: center;
+  cursor: pointer;
+  background-color: white; /* Added this line */
+}
+
+.letter {
+  font-size: 72px; /* Adjust the size as needed */
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+
+.animal-card:hover {
+  transform: scale(1.05);
+}
+
+.animal-card img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.animal-card p {
+  margin: 10px 0 0;
+  font-size: 1.2em;
+  font-weight: bold;
+}
+
+body  {
+  background-image: url("../public/assets/images/bluey.png");
+  background-color: #cccccc;
+}
