@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/greekletters/static/css/main.a9144a65.css",
-    "main.js": "/greekletters/static/js/main.0a93c02e.js",
-    "static/js/453.ed662431.chunk.js": "/greekletters/static/js/453.ed662431.chunk.js",
-    "static/media/bluey.png": "/greekletters/static/media/bluey.eef3a6fea14ff573ef56.png",
-    "index.html": "/greekletters/index.html",
-    "main.a9144a65.css.map": "/greekletters/static/css/main.a9144a65.css.map",
-    "main.0a93c02e.js.map": "/greekletters/static/js/main.0a93c02e.js.map",
-    "453.ed662431.chunk.js.map": "/greekletters/static/js/453.ed662431.chunk.js.map"
+    "main.css": "/greekAlphabetKids/static/css/main.3c722adc.css",
+    "main.js": "/greekAlphabetKids/static/js/main.618f621e.js",
+    "static/js/453.ed662431.chunk.js": "/greekAlphabetKids/static/js/453.ed662431.chunk.js",
+    "static/media/bluey.png": "/greekAlphabetKids/static/media/bluey.eef3a6fea14ff573ef56.png",
+    "index.html": "/greekAlphabetKids/index.html",
+    "main.3c722adc.css.map": "/greekAlphabetKids/static/css/main.3c722adc.css.map",
+    "main.618f621e.js.map": "/greekAlphabetKids/static/js/main.618f621e.js.map",
+    "453.ed662431.chunk.js.map": "/greekAlphabetKids/static/js/453.ed662431.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9144a65.css",
-    "static/js/main.0a93c02e.js"
+    "static/css/main.3c722adc.css",
+    "static/js/main.618f621e.js"
   ]
 }
