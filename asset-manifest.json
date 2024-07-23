@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/greekAlphabetKids/static/css/main.3c722adc.css",
-    "main.js": "/greekAlphabetKids/static/js/main.618f621e.js",
+    "main.js": "/greekAlphabetKids/static/js/main.6c6fbdfe.js",
     "static/js/453.ed662431.chunk.js": "/greekAlphabetKids/static/js/453.ed662431.chunk.js",
     "static/media/bluey.png": "/greekAlphabetKids/static/media/bluey.eef3a6fea14ff573ef56.png",
     "index.html": "/greekAlphabetKids/index.html",
     "main.3c722adc.css.map": "/greekAlphabetKids/static/css/main.3c722adc.css.map",
-    "main.618f621e.js.map": "/greekAlphabetKids/static/js/main.618f621e.js.map",
+    "main.6c6fbdfe.js.map": "/greekAlphabetKids/static/js/main.6c6fbdfe.js.map",
     "453.ed662431.chunk.js.map": "/greekAlphabetKids/static/js/453.ed662431.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3c722adc.css",
-    "static/js/main.618f621e.js"
+    "static/js/main.6c6fbdfe.js"
   ]
 }
