@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/greekletters/static/css/main.a9144a65.css",
+    "main.js": "/greekletters/static/js/main.0a93c02e.js",
+    "static/js/453.ed662431.chunk.js": "/greekletters/static/js/453.ed662431.chunk.js",
+    "static/media/bluey.png": "/greekletters/static/media/bluey.eef3a6fea14ff573ef56.png",
+    "index.html": "/greekletters/index.html",
+    "main.a9144a65.css.map": "/greekletters/static/css/main.a9144a65.css.map",
+    "main.0a93c02e.js.map": "/greekletters/static/js/main.0a93c02e.js.map",
+    "453.ed662431.chunk.js.map": "/greekletters/static/js/453.ed662431.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9144a65.css",
+    "static/js/main.0a93c02e.js"
+  ]
+}
